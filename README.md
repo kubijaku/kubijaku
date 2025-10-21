@@ -3,7 +3,7 @@
  align=center>Hello world! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0cjBobGt1bmZnYnBjOWN4NjdzODRxOGVnOWJmZzg1eXIxc2wxbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000&color=21D6E0&background=FFFFFF00&width=435&lines=Docker+and+Kubernetes+Master" alt="Docker and Kubernetes Master" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000&color=21D6E0&background=FFFFFF00&width=350&lines=Docker+and+Kubernetes+Master" alt="Docker and Kubernetes Master" /></a>
 </p>
 
 
