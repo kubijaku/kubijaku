@@ -8,13 +8,13 @@
 
 
 
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNwMTY0aTZ4ZHoya3pncnJreTZlMzZseDN4bmFxYXprbW90aGtuZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="35"> Tech Stack </h2>
+<h2> 🧱 Tech Stack </h2>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50"/> &nbsp;
 
-
-<h2>Another tools I'm specialized in</h2>
+<br>
+<h2> 🛠️ Another tools I'm specialized in</h2>
 
 <!-- Databases -->
 <h3>Databases</h3>
@@ -30,25 +30,27 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="120"/> &nbsp;
 <img src="https://cdn.signavio.com/uploads/2014/02/Signavio_Logo_Claim_RGB.png" alt="Signavio" width="100"/> &nbsp;
 
+<br><br>
 
 <h2>Some languages</h2>
 <!-- Languages -->
-<h3>Languages</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/> &nbsp;
+
+<br>
 
 <h2>Even more tools</h2>
 <!-- Frameworks & Tools -->
 <h3>Frontend - Frameworks & Tools</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="30"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30"/> &nbsp;
 
 
 
