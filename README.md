@@ -18,12 +18,14 @@
 
 <!-- Databases -->
 <h3>Databases</h3>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL/SQL" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MsSQL" width="40"/> &nbsp;
 
 <!-- Data / ML / BI -->
 <h3>Business and management</h3>
+
 <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Power BI" width="40"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="120"/> &nbsp;
 <img src="https://cdn.signavio.com/uploads/2014/02/Signavio_Logo_Claim_RGB.png" alt="Signavio" width="100"/> &nbsp;
@@ -32,6 +34,7 @@
 <h2>Some languages</h2>
 <!-- Languages -->
 <h3>Languages</h3>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> &nbsp;
@@ -42,6 +45,7 @@
 <h2>Even more tools</h2>
 <!-- Frameworks & Tools -->
 <h3>Frontend - Frameworks & Tools</h3>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/> &nbsp;
